@@ -30,7 +30,7 @@ go get -d ./...
 # Build an AAR
 make android
 
-# Build a Framework (not test)
+# Build a Framework 
 make ios
 
 # Both
